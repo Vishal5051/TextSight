@@ -9,14 +9,17 @@
 - Allows keyword search and highlights the specified keywords in the extracted text.
 - Simple and interactive web-based interface built with **Gradio**.
 
+## Live Project
+You can access the live application [here](https://0eccf3fb2e63c1091e.gradio.live).
+
 ## Installation and Setup
 
 To run **TextSight** locally, follow these steps:
 
 ### 1. Clone the Repository:
 ```bash
-git clone https://github.com/your-username/textsight.git
-cd textsight
+git clone https://github.com/Vishal5051/TextSight.git
+cd TextSight
 ```
 
 ### 2. Install Required Dependencies:
@@ -52,3 +55,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## About
 TextSight is an Optical Character Recognition (OCR) tool that allows users to upload images and extract text in both **English** and **Hindi**. Built with **EasyOCR** for text recognition and **Gradio** for an interactive web interface, it supports keyword search to highlight specified keywords within the extracted text.
+
