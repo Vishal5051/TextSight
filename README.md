@@ -17,7 +17,7 @@ You can access the live application [here](https://0eccf3fb2e63c1091e.gradio.liv
 To run **TextSight** locally or on Google Colab, follow these steps:
 
 ### Running Locally
-
+        as
 #### 1. Clone the Repository:
 ```bash
 git clone https://github.com/Vishal5051/TextSight.git
