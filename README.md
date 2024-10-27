@@ -6,7 +6,7 @@
 
 ## Features
 - Extracts text from images in English and Hindi using **EasyOCR**.
-- Allows keyword search and highlights the specified keywords in the extracted text.
+- Allows keyword search and highlights the specified keywords in the extracted text.    
 - Simple and interactive web-based interface built with **Gradio**.
 
 ## Live Project
